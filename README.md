@@ -61,4 +61,3 @@ $ cd hackathon
 $ eosiocpp -o hackathon.wast hackathon.cpp
 $ eosiocpp -g hackathon.abi hackathon.cpp
 $ cleos set contract hackathon ../hackathon -p hackathon@active
-```
